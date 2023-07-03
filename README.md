@@ -1,5 +1,7 @@
 # Customer-data-platform
-MADT_Workshop 1
+MADT8103
 
-มันทำยังไง ทำไมมันยากขนาดนี้นะ 
-![Uploading image.png…]()
+Workshop #1_Design customer data platfornm_Cinema_use case
+
+11 JUN 2023
+ 
