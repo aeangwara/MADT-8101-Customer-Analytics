@@ -13,6 +13,7 @@ Date 11 Jun 2023
 
 ### Data Pipeline
 
+![Cinema Pipeline](https://imgur.com/0V3VeuP)
 
 
 Below is example to design customer single view
@@ -31,6 +32,11 @@ Below is example to design customer single view
 
 | Golden_ID 	| Churn_Scoring 	| CLTV 	| Balance_score 	| Score_movement & ARP 	| Redemption_items 	|
 |-----------	|---------------	|------	|---------------	|----------------------	|------------------	|
+
+#### :white_check_mark: Usecase : Acquire new customers through existing customer
+
+!([![](https://mermaid.ink/img/pako:eNpVkMtOwzAQRX_F8gqkFvZZIOXBsgKJrki6mNqTxsKPyB5TlST_jp0sKF6N79wzr4kLJ5EXvNfuKgbwxI5NZ1l6ZVt--ydS4guJjdGnbMAT2-9f5lrHQOiVvbDzjfUIFD3OrHp4965XGrMqNk943KpVGWT1VCfVGfWDgQkwI6iLvXMvm7leu7zZVLNpGwjD2YGXzDiryK1t_7EDWIv6dM8er25mr235XDHCQBnJeb7jBr0BJdPKUwY6TgMa7HiRQok9RE0d7-ySrBDJfdys4AX5iDseRwmEjYKLB8OLHnRI6gj207m_P8o85GE763rd5RdXE3mX?type=png)](https://mermaid.live/edit#pako:eNpVkMtOwzAQRX_F8gqkFvZZIOXBsgKJrki6mNqTxsKPyB5TlST_jp0sKF6N79wzr4kLJ5EXvNfuKgbwxI5NZ1l6ZVt--ydS4guJjdGnbMAT2-9f5lrHQOiVvbDzjfUIFD3OrHp4965XGrMqNk943KpVGWT1VCfVGfWDgQkwI6iLvXMvm7leu7zZVLNpGwjD2YGXzDiryK1t_7EDWIv6dM8er25mr235XDHCQBnJeb7jBr0BJdPKUwY6TgMa7HiRQok9RE0d7-ySrBDJfdys4AX5iDseRwmEjYKLB8OLHnRI6gj207m_P8o85GE763rd5RdXE3mX))
+
 
 
 
