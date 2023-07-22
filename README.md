@@ -13,7 +13,7 @@ Date 11 Jun 2023
 
 ### Data Pipeline
 
-![Cinema Pipeline](https://imgur.com/0V3VeuP)
+!(https://ibb.co/S7FsS1B)
 
 
 Below is example to design customer single view
