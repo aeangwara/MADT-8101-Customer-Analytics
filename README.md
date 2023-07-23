@@ -1,5 +1,5 @@
 # 01 Design Customer data platform (Cinema Business)
-MADT 8103 Customer Analytics
+MADT 8101 Customer Analytics
 
 Date 11 Jun 2023
 
