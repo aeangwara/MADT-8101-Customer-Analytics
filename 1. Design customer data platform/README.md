@@ -13,7 +13,7 @@ Date 11 Jun 2023
 
 ### Data Pipeline
 
-!(https://ibb.co/S7FsS1B)
+[!(https://ibb.co/S7FsS1B)](https://github.com/aeangwara/MADT-8101-Customer-Analytics/issues/2#issue-1817133878)
 
 
 Below is example to design customer single view
