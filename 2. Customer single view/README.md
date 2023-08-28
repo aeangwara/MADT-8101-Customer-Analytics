@@ -24,3 +24,5 @@ Using a dataset, we applied the RFM model and clustering techniques, resulting i
 
 ---
 
+### CUSTOMER SINGLE VIEWS
+![image](https://github.com/aeangwara/MADT-8101-Customer-Analytics/assets/126969270/678b0dd1-a136-4684-bb27-06d425782456)
