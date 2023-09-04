@@ -8,11 +8,6 @@
 
 ---
 
-## Data Pre-Processing 
- - Removed word '[' ', '  ', '\n', 'ร้าน', '(', ')','ครับ','ค่ะ','อาหาร','/','วงใน','กิจกรรม','ทีมงาน','Wongnai','.',':','','*']
-
----
-
 ## Result 
 ![image](https://github.com/aeangwara/MADT-8101-Customer-Analytics/assets/126969270/8950fe5c-d0e1-4ad1-a69d-9cfa552cfe71)
 
