@@ -1,5 +1,5 @@
 # Customer lifetime value & scoring
----
+
 ## **:ramen: SUKI Teenoi (Shabu restaurant in Thailand)**
 
 
