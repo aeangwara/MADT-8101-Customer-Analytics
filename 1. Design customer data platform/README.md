@@ -15,17 +15,17 @@
 
 ## Example to design customer single view :
 
-- ### CSV for create new profile (Convert new customer)
+- #### CSV for create new profile (Convert new customer)
 
 | Golden_ID | Member_I | Member_Date | Customer_Name | Telephone_Number | Line_ID | Email | Register_Channel | DOB | Sex | Occupation | CAC |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 
-- ### CSV for activate personalized campaign via Application (Maintain current customer)
+- #### CSV for activate personalized campaign via Application (Maintain current customer)
 
 | Golden_ID 	| Last_active 	| NO. of Visit_(Past 3 months) 	| APRU 	| NO.Visit_seat type 	| NO.Visit_Drink&Snack 	| Kind of movies visit in 3 months 	| Spending_index 	| Avg. of ticket purchase 	| Mean time between pur. 	| CLTV 	| Disc. score 	|
 |-----------	|-------------	|------------------------------	|------	|--------------------	|----------------------	|----------------------------------	|----------------	|-------------------------	|------------------------	|------	|-------------	|
 
-- ### CSV for Gamification (Prevent customer lost)
+- #### CSV for Gamification (Prevent customer lost)
   
 | Golden_ID 	| Churn_Scoring 	| CLTV 	| Balance_score 	| Score_movement & ARP 	| Redemption_items 	|
 |-----------	|---------------	|------	|---------------	|----------------------	|------------------	|
